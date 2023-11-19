@@ -1,0 +1,11 @@
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Domain\bin\Debug\net6.0\PioneersAPI.Domain.deps.json
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Domain\bin\Debug\net6.0\PioneersAPI.Domain.dll
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Domain\bin\Debug\net6.0\PioneersAPI.Domain.pdb
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Domain\obj\Debug\net6.0\PioneersAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Domain\obj\Debug\net6.0\PioneersAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Domain\obj\Debug\net6.0\PioneersAPI.Domain.AssemblyInfo.cs
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Domain\obj\Debug\net6.0\PioneersAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Domain\obj\Debug\net6.0\PioneersAPI.Domain.dll
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Domain\obj\Debug\net6.0\refint\PioneersAPI.Domain.dll
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Domain\obj\Debug\net6.0\PioneersAPI.Domain.pdb
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Domain\obj\Debug\net6.0\ref\PioneersAPI.Domain.dll

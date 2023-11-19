@@ -1,0 +1,17 @@
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Infrastructure\bin\Debug\net6.0\PioneersAPI.Infrastructure.deps.json
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Infrastructure\bin\Debug\net6.0\PioneersAPI.Infrastructure.dll
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Infrastructure\bin\Debug\net6.0\PioneersAPI.Infrastructure.pdb
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Infrastructure\bin\Debug\net6.0\PioneersAPI.Application.dll
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Infrastructure\bin\Debug\net6.0\PioneersAPI.Domain.dll
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Infrastructure\bin\Debug\net6.0\PioneersAPI.Application.pdb
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Infrastructure\bin\Debug\net6.0\PioneersAPI.Domain.pdb
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Infrastructure\obj\Debug\net6.0\PioneersAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Infrastructure\obj\Debug\net6.0\PioneersAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Infrastructure\obj\Debug\net6.0\PioneersAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Infrastructure\obj\Debug\net6.0\PioneersAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Infrastructure\obj\Debug\net6.0\PioneersAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Infrastructure\obj\Debug\net6.0\PioneersAPI.Infrastructure.csproj.CopyComplete
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Infrastructure\obj\Debug\net6.0\PioneersAPI.Infrastructure.dll
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Infrastructure\obj\Debug\net6.0\refint\PioneersAPI.Infrastructure.dll
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Infrastructure\obj\Debug\net6.0\PioneersAPI.Infrastructure.pdb
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Infrastructure\obj\Debug\net6.0\ref\PioneersAPI.Infrastructure.dll

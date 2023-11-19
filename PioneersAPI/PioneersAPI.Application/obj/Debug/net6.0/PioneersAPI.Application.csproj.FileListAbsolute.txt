@@ -1,0 +1,15 @@
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Application\bin\Debug\net6.0\PioneersAPI.Application.deps.json
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Application\bin\Debug\net6.0\PioneersAPI.Application.dll
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Application\bin\Debug\net6.0\PioneersAPI.Application.pdb
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Application\bin\Debug\net6.0\PioneersAPI.Domain.dll
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Application\bin\Debug\net6.0\PioneersAPI.Domain.pdb
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Application\obj\Debug\net6.0\PioneersAPI.Application.csproj.AssemblyReference.cache
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Application\obj\Debug\net6.0\PioneersAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Application\obj\Debug\net6.0\PioneersAPI.Application.AssemblyInfoInputs.cache
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Application\obj\Debug\net6.0\PioneersAPI.Application.AssemblyInfo.cs
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Application\obj\Debug\net6.0\PioneersAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Application\obj\Debug\net6.0\PioneersAPI.Application.csproj.CopyComplete
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Application\obj\Debug\net6.0\PioneersAPI.Application.dll
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Application\obj\Debug\net6.0\refint\PioneersAPI.Application.dll
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Application\obj\Debug\net6.0\PioneersAPI.Application.pdb
+C:\Users\SONY-STORE\source\repos\PioneersAPI\PioneersAPI.Application\obj\Debug\net6.0\ref\PioneersAPI.Application.dll
