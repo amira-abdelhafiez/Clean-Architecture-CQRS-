@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "PpbICuXlRIl/TaCfISN3adwJVcrHWG364eo+ylfkp5fs4TNAcPQIQDqWoDve705ELuM7kSlEQzuUVC6GeS2xWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SONY-STORE\\source\\repos\\PioneersTaskConsoleApp\\PioneersTaskConsoleApp\\PioneersTaskConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SONY-STORE\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\SONY-STORE\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\SONY-STORE\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\SONY-STORE\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\7.0.0\\microsoft.extensions.configuration.fileextensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\SONY-STORE\\.nuget\\packages\\microsoft.extensions.configuration.json\\7.0.0\\microsoft.extensions.configuration.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\SONY-STORE\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\SONY-STORE\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\7.0.0\\microsoft.extensions.fileproviders.physical.7.0.0.nupkg.sha512",
+    "C:\\Users\\SONY-STORE\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\7.0.0\\microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
+    "C:\\Users\\SONY-STORE\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\SONY-STORE\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\SONY-STORE\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\SONY-STORE\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
