@@ -7,5 +7,6 @@ The web api using clean architecture.
 - MediatR and CQRS architecture.
 - Entity framework core.
 
-
-The front end is angular.
+TODOS
+- WebAPI upload file and save data to db.
+- Angular client to consume web api with two views (1- search view (end point implemented) 2- import view).
