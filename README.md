@@ -8,5 +8,6 @@ The web api using clean architecture.
 - Entity framework core.
 
 TODOS
+- Console app exception handling + vaidation fixes.
 - WebAPI upload file and save data to db.
 - Angular client to consume web api with two views (1- search view (end point implemented) 2- import view).
